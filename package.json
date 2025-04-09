@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/hillan1152/test_backend/issues"
   },
-  "homepage": "https://github.com/hillan1152/test_backend#readme"
+  "homepage": "https://github.com/hillan1152/test_backend#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "knex": "^3.1.0",
+    "knex-cleaner": "^1.3.1",
+    "pg": "^8.14.1",
+    "sqlite": "^5.1.1"
+  }
 }
